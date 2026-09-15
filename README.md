@@ -4,8 +4,11 @@
 * **Development Workflows:** Proficient with Git-based collaboration (pull requests, code reviews, branching strategies) and familiar with Agile/Scrum fundamentals.
 * **Problem Solving:** Strong analytical mindset focused on debugging complex backend performance challenges and configuring monitoring tools.
 * **Self-Management:** Highly organized learner capable of scoping project requirements and meeting strict delivery deadlines.
+
+
+
 <details>
-  <summary><font size="100"><b> Licenses & Professional Certifications</b></font></summary>
+  <summary><h2 id="certs-title" style="display: inline;">📜 Licenses & Professional Certifications</h2></summary>
   <br>
   <table>
     <tr>
