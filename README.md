@@ -1,11 +1,11 @@
 <details>
-  <summary>📜 <b>Licenses & Professional Certifications</b></summary>
+  <summary> <b>Licenses & Professional Certifications</b></summary>
   <br>
   <table>
     <tr>
       <td width="50%" align="center">
         <a href="assets/python_pro.jpg">
-          <img src="assets/python_pro.jpg" width="100%" alt="Python Pro Certificate">
+          <img src="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg" width="100%" alt="Python Pro Certificate">
         </a>
         <br>
         <b>Python Pro Architecture & Development</b>
@@ -15,7 +15,7 @@
         <sub><i>Final Project: E-Commerce Platform</i></sub>
       </td>
       <td width="50%" align="center">
-        <a href="assets/soft_skills.jpg">
+        <a href="https://cdn.phototourl.com/member/2026-09-15-6b276334-9bcb-400c-b568-403544e60bf8.jpg">
           <img src="assets/soft_skills.jpg" width="100%" alt="Soft Skills & Leadership Certificate">
         </a>
         <br>
