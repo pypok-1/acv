@@ -8,7 +8,7 @@
 
 
 <details>
-  <summary><h2 id="certs-title" style="display: inline;"> Licenses & Professional Certifications</h2></summary>
+  <summary><h2 id="certs-title" style="display: inline;">   Licenses & Professional Certifications</h2></summary>
   <br>
   <table>
     <tr>
