@@ -25,7 +25,6 @@
   <sub>GoITeens · Apr 2026 · <i>E-Commerce Platform</i></sub>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>[Certificate Name]</b></sub><br>
-  <sub>[Issuer] · [Month Year] · <i>[Project]</i></sub>
 </p>
 
 ---
