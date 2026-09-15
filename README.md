@@ -5,7 +5,7 @@
 * **Problem Solving:** Strong analytical mindset focused on debugging complex backend performance challenges and configuring monitoring tools.
 * **Self-Management:** Highly organized learner capable of scoping project requirements and meeting strict delivery deadlines.
 <details>
-  <summary><font size="6"><b>📜 Licenses & Professional Certifications</b></font></summary>
+  <summary><font size="100"><b> Licenses & Professional Certifications</b></font></summary>
   <br>
   <table>
     <tr>
