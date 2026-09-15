@@ -24,7 +24,7 @@
   <sub><b>Python Pro Architecture & Development</b></sub><br>
   <sub>GoITeens · Apr 2026 · <i>E-Commerce Platform</i></sub>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>[Certificate Name]</b></sub><br>
+  <sub><b>Soft Skills & Teens </b></sub><br>
 </p>
 
 ---
