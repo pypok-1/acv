@@ -7,33 +7,5 @@
 
 
 
-<details>
-  <summary><h2 id="certs-title" style="display: inline;">   Licenses & Professional Certifications</h2></summary>
-  <br>
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg">
-          <img src="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg" width="100%" alt="Python Pro Certificate">
-        </a>
-        <br>
-        <b>Python Pro Architecture & Development</b>
-        <br>
-        <sub>GoITeens | Issued Apr 2026</sub>
-        <br>
-        <sub><i>Final Project: E-Commerce Platform</i></sub>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://cdn.phototourl.com/member/2026-09-15-6b276334-9bcb-400c-b568-403544e60bf8.jpg">
-          <img src="https://cdn.phototourl.com/member/2026-09-15-6b276334-9bcb-400c-b568-403544e60bf8.jpg" width="100%" alt="Soft Skills & Leadership Certificate">
-        </a>
-        <br>
-        <b>Engineering Leadership & Soft Skills</b>
-        <br>
-        <sub>GoITeens | Issued Apr 2026</sub>
-        <br>
-        <sub><i>Team Collaboration & Communication</i></sub>
-      </td>
-    </tr>
-  </table>
-</details>
+<p align="center"> <img src="https://img.shields.io/badge/Certifications-2-blue?style=for-the-badge&logo=read-the-docs" alt="Certifications Badge"/> </p>
+<table align="center"> <tr> <td width="50%" align="center" valign="top"> <a href="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg"> <img src="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg" width="100%" alt="Python Pro Certificate"/> </a> <br><br> <h3>🐍 Python Pro Architecture & Development</h3> <p> <b>GoITeens</b> · <i>Issued Apr 2026</i> </p> <p> <sub>🎓 <b>Final Project:</b> E-Commerce Platform</sub> </p> </td> <td width="50%" align="center" valign="top"> <a href="https://cdn.phototourl.com/member/2026-09-15-6b276334-9bcb-400c-b568-403544e60bf8.jpg"> <img src="https://cdn.phototourl.com/member/2026-09-15-6b276334-9bcb-400c-b568-403544e60bf8.jpg" width="100%" alt="Certificate 2"/> </a> <br><br> <h3>📘 [Certificate Name]</h3> <p> <b>[Issuer]</b> · <i>Issued [Month Year]</i> </p> <p> <sub>🎓 <b>Final Project:</b> [Project Name]</sub> </p> </td> </tr> </table>
