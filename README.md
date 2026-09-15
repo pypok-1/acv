@@ -16,7 +16,7 @@
       </td>
       <td width="50%" align="center">
         <a href="https://cdn.phototourl.com/member/2026-09-15-6b276334-9bcb-400c-b568-403544e60bf8.jpg">
-          <img src="assets/soft_skills.jpg" width="100%" alt="Soft Skills & Leadership Certificate">
+          <img src="https://cdn.phototourl.com/member/2026-09-15-6b276334-9bcb-400c-b568-403544e60bf8.jpg" width="100%" alt="Soft Skills & Leadership Certificate">
         </a>
         <br>
         <b>Engineering Leadership & Soft Skills</b>
