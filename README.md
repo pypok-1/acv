@@ -23,7 +23,6 @@
       <b>🐍 Python Pro Architecture & Development</b><br>
       <sub>GoITeens · Issued Apr 2026</sub><br><br>
       Final Project: <i>E-Commerce Platform</i><br>
-      <a href="https://cdn.phototourl.com/free/2026-09-15-298df2c9-88ed-4a93-9f78-3f784e0c9493.jpg">→ View certificate</a>
     </td>
   </tr>
   <tr><td colspan="2"><br><hr><br></td></tr>
@@ -38,7 +37,6 @@
       <b>📘 [Certificate Name]</b><br>
       <sub>[Issuer] · Issued [Month Year]</sub><br><br>
       Final Project: <i>[Project Name]</i><br>
-      <a href="https://cdn.phototourl.com/member/2026-09-15-6b276334-9bcb-400c-b568-403544e60bf8.jpg">→ View certificate</a>
     </td>
   </tr>
 </table>
